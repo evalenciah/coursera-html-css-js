@@ -1,0 +1,17 @@
+.nb-bg {
+    background-color: honeydew;
+}
+.menu-bg {
+    background-color: lightcyan;
+}
+
+.s-b {
+    font-weight: 500;
+}
+.s-box {
+    background-color: lightpink;
+    margin-bottom: 20px;
+}
+a:link, a:hover, a:visited, a:active {
+    text-decoration: none;
+}
